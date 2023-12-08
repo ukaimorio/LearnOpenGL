@@ -1,0 +1,37 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake
+C:/Users/22175/Desktop/LearnOpenGL/CMakeLists.txt
+C:/Users/22175/Desktop/LearnOpenGL/build/CMakeFiles/3.27.7/CMakeCCompiler.cmake
+C:/Users/22175/Desktop/LearnOpenGL/build/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake
+C:/Users/22175/Desktop/LearnOpenGL/build/CMakeFiles/3.27.7/CMakeRCCompiler.cmake
+C:/Users/22175/Desktop/LearnOpenGL/build/CMakeFiles/3.27.7/CMakeSystem.cmake
+C:/vcpkg/installed/x64-windows/share/glad/gladConfig.cmake
+C:/vcpkg/installed/x64-windows/share/glad/gladConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/glad/gladTargets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/glad/gladTargets-release.cmake
+C:/vcpkg/installed/x64-windows/share/glad/gladTargets.cmake
+C:/vcpkg/installed/x64-windows/share/glfw3/glfw3Config.cmake
+C:/vcpkg/installed/x64-windows/share/glfw3/glfw3ConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/glfw3/glfw3Targets-release.cmake
+C:/vcpkg/installed/x64-windows/share/glfw3/glfw3Targets.cmake
+C:/vcpkg/scripts/buildsystems/vcpkg.cmake
