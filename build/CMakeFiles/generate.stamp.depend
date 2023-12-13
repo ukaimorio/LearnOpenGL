@@ -3,6 +3,7 @@ C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCInformation.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCXXInformation.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake
@@ -24,6 +25,11 @@ C:/Users/22175/Desktop/LearnOpenGL/build/CMakeFiles/3.27.7/CMakeCCompiler.cmake
 C:/Users/22175/Desktop/LearnOpenGL/build/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake
 C:/Users/22175/Desktop/LearnOpenGL/build/CMakeFiles/3.27.7/CMakeRCCompiler.cmake
 C:/Users/22175/Desktop/LearnOpenGL/build/CMakeFiles/3.27.7/CMakeSystem.cmake
+C:/vcpkg/installed/x64-windows/share/assimp/assimpConfig.cmake
+C:/vcpkg/installed/x64-windows/share/assimp/assimpConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/assimp/assimpTargets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/assimp/assimpTargets-release.cmake
+C:/vcpkg/installed/x64-windows/share/assimp/assimpTargets.cmake
 C:/vcpkg/installed/x64-windows/share/glad/gladConfig.cmake
 C:/vcpkg/installed/x64-windows/share/glad/gladConfigVersion.cmake
 C:/vcpkg/installed/x64-windows/share/glad/gladTargets-debug.cmake
@@ -35,4 +41,9 @@ C:/vcpkg/installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake
 C:/vcpkg/installed/x64-windows/share/glfw3/glfw3Targets-release.cmake
 C:/vcpkg/installed/x64-windows/share/glfw3/glfw3Targets.cmake
 C:/vcpkg/installed/x64-windows/share/glm/glm-config.cmake
+C:/vcpkg/installed/x64-windows/share/pugixml/pugixml-config-version.cmake
+C:/vcpkg/installed/x64-windows/share/pugixml/pugixml-config.cmake
+C:/vcpkg/installed/x64-windows/share/pugixml/pugixml-targets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/pugixml/pugixml-targets-release.cmake
+C:/vcpkg/installed/x64-windows/share/pugixml/pugixml-targets.cmake
 C:/vcpkg/scripts/buildsystems/vcpkg.cmake

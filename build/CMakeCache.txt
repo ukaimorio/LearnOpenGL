@@ -237,6 +237,9 @@ Z_VCPKG_PWSH_PATH:FILEPATH=C:/Program Files/PowerShell/7/pwsh.exe
 // triplet
 _VCPKG_INSTALLED_DIR:PATH=C:/vcpkg/installed
 
+//The directory containing a CMake configuration file for assimp.
+assimp_DIR:PATH=C:/vcpkg/installed/x64-windows/share/assimp
+
 //The directory containing a CMake configuration file for glad.
 glad_DIR:PATH=C:/vcpkg/installed/x64-windows/share/glad
 
@@ -263,6 +266,9 @@ opengl_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 opengl_SOURCE_DIR:STATIC=C:/Users/22175/Desktop/LearnOpenGL
+
+//The directory containing a CMake configuration file for pugixml.
+pugixml_DIR:PATH=C:/vcpkg/installed/x64-windows/share/pugixml
 
 
 ########################
