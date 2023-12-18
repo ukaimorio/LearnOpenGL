@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "RelWithDebInfo/opengl.exe"
+			"path" : "Debug/opengl.exe"
 		},
 		{
-			"path" : "RelWithDebInfo/opengl.pdb"
+			"path" : "Debug/opengl.pdb"
 		}
 	],
 	"backtrace" : 2,
@@ -142,7 +142,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG -std:c++17"
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17"
 				}
 			],
 			"defines" : 
@@ -191,7 +191,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG",
+				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1",
 				"role" : "flags"
 			},
 			{
@@ -200,22 +200,22 @@
 			},
 			{
 				"backtrace" : 3,
-				"fragment" : "C:\\vcpkg\\installed\\x64-windows\\lib\\glad.lib",
+				"fragment" : "C:\\vcpkg\\installed\\x64-windows\\debug\\lib\\glad.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:\\vcpkg\\installed\\x64-windows\\lib\\glfw3dll.lib",
+				"fragment" : "C:\\vcpkg\\installed\\x64-windows\\debug\\lib\\glfw3dll.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\vcpkg\\installed\\x64-windows\\lib\\assimp-vc143-mt.lib",
+				"fragment" : "C:\\vcpkg\\installed\\x64-windows\\debug\\lib\\assimp-vc143-mtd.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 15,
-				"fragment" : "C:\\vcpkg\\installed\\x64-windows\\lib\\pugixml.lib",
+				"fragment" : "C:\\vcpkg\\installed\\x64-windows\\debug\\lib\\pugixml.lib",
 				"role" : "libraries"
 			},
 			{
@@ -283,7 +283,7 @@
 		{
 			"backtrace" : 2,
 			"compileGroupIndex" : 0,
-			"path" : "src/16.Stencil_testing/test.cpp",
+			"path" : "src/19.Framebuffers/main.cpp",
 			"sourceGroupIndex" : 1
 		}
 	],
