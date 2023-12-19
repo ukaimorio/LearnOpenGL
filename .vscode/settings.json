@@ -51,7 +51,16 @@
     "xmemory": "cpp",
     "xtr1common": "cpp",
     "xutility": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "array": "cpp",
+    "list": "cpp",
+    "vector": "cpp",
+    "xhash": "cpp",
+    "xtree": "cpp",
+    "functional": "cpp",
+    "map": "cpp",
+    "optional": "cpp",
+    "unordered_map": "cpp"
   },
   "cmake.configureSettings": {
     "CMAKE_TOOLCHAIN_FILE": "C:/vcpkg/scripts/buildsystems/vcpkg.cmake",

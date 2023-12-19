@@ -159,8 +159,8 @@ private:
         std::vector<Texture> normalMaps = loadMaterialTextures(material, aiTextureType_HEIGHT, "texture_normal");
         textures.insert(textures.end(), normalMaps.begin(), normalMaps.end());
         // 4. height maps
-        std::vector<Texture> heightMaps = loadMaterialTextures(material, aiTextureType_AMBIENT, "texture_height");
-        textures.insert(textures.end(), heightMaps.begin(), heightMaps.end());
+        std::vector<Texture> reflectionTexture = loadMaterialTextures(material, aiTextureType_AMBIENT, "texture_reflection");
+        textures.insert(textures.end(), reflectionTexture.begin(), reflectionTexture.end());
 
         // return a mesh object created from the extracted mesh data
         return Mesh(vertices, indices, textures);

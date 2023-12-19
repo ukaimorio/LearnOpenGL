@@ -7,7 +7,7 @@ include_directories(include)
 
 file (GLOB SRC_FILES
     "${PROJECT_SOURCE_DIR}/include/*.h"s
-    "${PROJECT_SOURCE_DIR}/src/19.Framebuffers/*.cpp"
+    "${PROJECT_SOURCE_DIR}/src/23.Instancing/*.cpp"
 )
 
 add_executable(${CMAKE_PROJECT_NAME} ${SRC_FILES})
