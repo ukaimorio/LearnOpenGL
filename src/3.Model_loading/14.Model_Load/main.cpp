@@ -59,7 +59,7 @@ int main()
     // 初始化GLAD,传入的是GLAD用来加载系统相关的OpenGL函数指针地址的函数
 
     Shader ourShader("C:/Users/22175/Desktop/LearnOpenGL/src/3.Model_loading/14.Model_Load/vsfs/shader.vs", "C:/Users/22175/Desktop/LearnOpenGL/src/3.Model_loading/14.Model_Load/vsfs/shader.fs");
-    Model ourModel("C:/Users/22175/Desktop/LearnOpenGL/assets/objects/backpack/backpack.obj");
+    Model ourModel("C:/Users/22175/Desktop/LearnOpenGL/assets/objects/GF2/GirlsFrontline PerityaDefault.pmx");
     while (!glfwWindowShouldClose(window))
     {
         float currentFrame = glfwGetTime();
