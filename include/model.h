@@ -9,8 +9,8 @@
 #include <assimp/scene.h>
 #include <assimp/postprocess.h>
 
-#include "shader.h"
 #include "mesh.h"
+#include "shader.h"
 
 #include <string>
 #include <fstream>
@@ -159,8 +159,8 @@ private:
         std::vector<Texture> normalMaps = loadMaterialTextures(material, aiTextureType_HEIGHT, "texture_normal");
         textures.insert(textures.end(), normalMaps.begin(), normalMaps.end());
         // 4. height maps
-        std::vector<Texture> reflectionTexture = loadMaterialTextures(material, aiTextureType_AMBIENT, "texture_reflection");
-        textures.insert(textures.end(), reflectionTexture.begin(), reflectionTexture.end());
+        std::vector<Texture> heightMaps = loadMaterialTextures(material, aiTextureType_AMBIENT, "texture_height");
+        textures.insert(textures.end(), heightMaps.begin(), heightMaps.end());
 
         // return a mesh object created from the extracted mesh data
         return Mesh(vertices, indices, textures);
@@ -233,7 +233,7 @@ unsigned int TextureFromFile(const char *path, const string &directory, bool gam
     }
     else
     {
-        std::cout << "Texture failed to load at path: " << directory << " " << path << std::endl;
+        std::cout << "Texture failed to load at path: " << path << std::endl;
         stbi_image_free(data);
     }
 

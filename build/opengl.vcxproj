@@ -379,7 +379,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="C:\Users\22175\Desktop\LearnOpenGL\include\model.h" />
     <ClInclude Include="C:\Users\22175\Desktop\LearnOpenGL\include\shader.h" />
     <ClInclude Include="C:\Users\22175\Desktop\LearnOpenGL\include\stb_image.h" />
-    <ClCompile Include="C:\Users\22175\Desktop\LearnOpenGL\src\5.advanced_lighting\9.SSAO\main.cpp" />
+    <ClCompile Include="C:\Users\22175\Desktop\LearnOpenGL\src\6.PBR\3.IBL\4.Specular_IBL_model\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\22175\Desktop\LearnOpenGL\build\ZERO_CHECK.vcxproj">

@@ -6,8 +6,8 @@ include_directories(include)
 
 
 file (GLOB SRC_FILES
-    "${PROJECT_SOURCE_DIR}/include/*.h"s
-    "${PROJECT_SOURCE_DIR}/src/5.advanced_lighting/9.SSAO/*.cpp"
+    "${PROJECT_SOURCE_DIR}/include/*.h"
+    "${PROJECT_SOURCE_DIR}/src/6.PBR/3.IBL/4.Specular_IBL_model/*.cpp"
 )
 
 add_executable(${CMAKE_PROJECT_NAME} ${SRC_FILES})
